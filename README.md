@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robertkanejr&label=Profile%20views&color=0e75b6&style=flat" alt="robertkanejr" /> </p>
 
-- 🔭 I’m currently working on [an inspirational quote generator](https://github.com/robertkanejr/inspo-quote-generator)
+- 🔭 I’m currently working on [an inspirational quote generator](https://github.com/robertkanejr/inspo-quote-generator).
 
-- 🌱 I’m currently learning **AWS and GraphQL**
+- 🌱 I’m currently learning **AWS and GraphQL.**
 
-- 💬 Ask me about **React, Next.js, Node.js, HTML, CSS**
+- 💬 Ask me about **React, Next.js, Node.js, HTML, and CSS.**
 
-- 📫 How to reach me **bobkane.dev@gmail.com**
+- 📫 How to reach me **bobkane.dev@gmail.com.**
 
 - ⚡ Fun fact **I'm also a DJ - contact me for your next event!**
 
