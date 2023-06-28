@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [an inspirational quote generator](https://github.com/robertkanejr/inspo-quote-generator)
 
-- 🌱 I’m currently learning **AWS and GraphQL.**
+- 🌱 I’m currently learning **AWS and GraphQL**
 
 - 💬 Ask me about **React, Next.js, Node.js, HTML, CSS**
 
 - 📫 How to reach me **bobkane.dev@gmail.com**
 
-- ⚡ Fun fact **I'm also a DJ - contact me if you need one for your next event!**
+- ⚡ Fun fact **I'm also a DJ - contact me for your next event!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
