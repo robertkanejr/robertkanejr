@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi I'm Bob Kane</h1>
-<h3 align="center">💻 A passionate and experienced full stack engineer from NYC.</h3>
+<h3 align="center">💻 A passionate and experienced frontend/full stack engineer from NYC.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robertkanejr&label=Profile%20views&color=0e75b6&style=flat" alt="robertkanejr" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **AWS and GraphQL.**
 
-- 💬 Ask me about **React, Next.js, Node.js, HTML, and CSS.**
+- 💬 Ask me about **anything related to the JavaScript ecosystem - TypeScript, React, Next.js, Node.js are my specialties.**
 
-- 📫 How to reach me **bobkane.dev@gmail.com.**
+- 📫 How to reach me: **Email me at bobkane.dev@gmail.com or message me on [LinkedIn](https://www.linkedin.com/in/robertkanejr/).**
 
-- ⚡ Fun fact **I'm also a DJ - contact me for your next event!**
+- ⚡ Fun fact **I'm also a music aficionado and DJ - contact me for your next event!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
