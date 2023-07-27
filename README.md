@@ -2,7 +2,7 @@
 <h3 align="left">💻 A passionate and experienced full stack engineer from NYC.</h3>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robertkanejr&label=Profile%20views&color=0e75b6&style=flat" alt="robertkanejr" /> </p>
-<br>
+<br>  
 - 🔭 I’m currently working on [an inspirational quote generator](https://github.com/robertkanejr/inspo-quote-generator).
 
 - 🌱 I’m currently learning **AWS and GraphQL.**
