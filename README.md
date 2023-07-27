@@ -1,8 +1,8 @@
 <h1 align="left">👋 Hi I'm Bob Kane</h1>
 <h3 align="left">💻 A passionate and experienced full stack engineer from NYC.</h3>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=robertkanejr&label=Profile%20views&color=0e75b6&style=flat" alt="robertkanejr" /> </p>
-<br>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=robertkanejr&label=Profile%20views&color=0e75b6&style=flat" alt="robertkanejr" /> </p>  
+
 - 🔭 I’m currently working on [an inspirational quote generator](https://github.com/robertkanejr/inspo-quote-generator).
 
 - 🌱 I’m currently learning **AWS and GraphQL.**
