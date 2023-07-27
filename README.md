@@ -3,6 +3,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robertkanejr&label=Profile%20views&color=0e75b6&style=flat" alt="robertkanejr" /> </p>
 <br>
+
 - 🔭 I’m currently working on [an inspirational quote generator](https://github.com/robertkanejr/inspo-quote-generator).
 
 - 🌱 I’m currently learning **AWS and GraphQL.**
@@ -12,7 +13,7 @@
 - 📫 How to reach me: **Email me at bobkane.dev@gmail.com or message me on [LinkedIn](https://www.linkedin.com/in/robertkanejr/).**
 
 - ⚡ Fun fact **I'm also a music aficionado and DJ - ask me anything music related or contact me to play your next event!**
-<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/robertkanejr" target="blank"><img align="center" src="https://raw.githubusercontent.com/codemaker2015/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robertkanejr" height="30" width="40" /></a>
