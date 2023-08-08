@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **Email me at bobkane.dev@gmail.com or message me on [LinkedIn](https://www.linkedin.com/in/robertkanejr/).**
 
-- ⚡ Fun fact **I'm also a music aficionado and DJ - ask me anything music related or contact me to play your next event!**
+- ⚡ Fun fact: **I'm also a music aficionado and DJ - ask me anything music related or contact me to play your next event!**
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
